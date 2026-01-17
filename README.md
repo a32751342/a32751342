@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://poyutseng.vercel.app](https://poyutseng.vercel.app)**
 
-- 📝 I regularly write articles on **[https://poyutseng.vercel.app](https://poyutseng.vercel.app)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/a32751342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="a32751342" height="30" width="40" /></a>
