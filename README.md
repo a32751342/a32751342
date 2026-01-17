@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-- 🔭 I'm currently working on **I am currently a graduate student specializing in sports technology**
+- 🔭 I am currently a graduate student in the Department of Computer Science and Information Engineering, focusing on sports technology. I am developing a baseball swing analysis system based on monocular images, integrating computer vision and deep learning techniques for use in everyday training scenarios.
 
 - 👨‍💻 All of my projects are available at **[https://poyutseng.vercel.app](https://poyutseng.vercel.app)**
 
