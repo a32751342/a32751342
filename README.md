@@ -1,5 +1,5 @@
 # PO-YU TSENG (曾柏瑜)
-**Computer Vision Engineer & Sports Analytics Researcher**
+**Computer Science Graduate Student**
 
 ---
 
