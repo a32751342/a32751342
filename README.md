@@ -1,21 +1,44 @@
-# PO-YU TSENG (曾柏瑜) 👋
+# PO-YU TSENG (曾柏瑜)
+**Computer Vision Engineer & Sports Analytics Researcher**
 
-Computer Science graduate student passionate about Computer Vision and Sports Analytics, currently researching intelligent visual analysis for baseball performance.
+---
 
-### 🛠️ Tech Stack
+Passionate about leveraging Computer Vision and Deep Learning to revolutionize sports performance analysis. I specialize in developing intelligent systems that extract meaningful data from video to provide actionable insights for athletes and coaches. I am actively seeking opportunities to apply my expertise in a challenging and innovative environment.
 
-- **Areas:** Computer Vision, Deep Learning, Sports Analytics
-- **Languages:** Python, C++
-- **Tools:** OpenCV, YOLO, PyTorch, PyQt, CUDA
+<div align="center">
 
-### 🚀 Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-yu-tseng)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a32751342)
 
-- **⚾ Baseball Swing Analysis:** An MLB Statcast-like system that tracks bat/ball trajectories to analyze player performance.
-- **🏃 High-Speed Object Tracking:** A real-time system for tracking fast-moving objects in 240 FPS video for sports.
-- **🖥️ Image Analysis Platform:** A GUI-based platform for integrated image processing and data analysis.
-- **📈 3D Trajectory Reconstruction:** Reconstructing 3D motion from 2D video for biomechanics research.
+</div>
 
-### 🔗 Connect
+---
 
-- **LinkedIn:** [po-yu-tseng](https://www.linkedin.com/in/po-yu-tseng)
-- **GitHub:** [a32751342](https://github.com/a32751342)
+### 🌟 Featured Project: Computer Vision-Based Baseball Swing Analysis
+
+This project is an intelligent analysis system inspired by MLB Statcast, designed to provide objective, data-driven feedback on a baseball player's swing. By tracking bat and ball trajectories in real-time, it calculates key performance metrics essential for player development.
+
+- **Key Features**:
+  - Tracks bat and ball movement from standard video feeds.
+  - Calculates critical metrics like **Exit Velocity**, **Launch Angle**, and **Bat Tilt Angle**.
+  - Provides a foundation for advanced biomechanical analysis and performance evaluation.
+- **Technologies Used**:
+  - `Python`, `OpenCV`, `YOLOv8`, `PyQt6`, `NumPy`, `CUDA`
+
+---
+
+### 🚀 Other Projects
+
+| Project                                    | Description                                                                          | Technologies                               |
+| ------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| **High-Speed Object Tracking for Sports**  | Real-time multi-object tracking system capable of processing 240 FPS video.          | `YOLOv8`, `DeepSORT`, `OpenCV`, `CUDA`       |
+| **Integrated Image Analysis Platform**     | A user-friendly GUI platform with multiple image processing and data analysis tools. | `PyQt6`, `OpenCV`, `Matplotlib`, `SQLite`  |
+| **3D Trajectory Reconstruction**           | Reconstructs 3D object motion from 2D videos for sports science analysis.            | `MATLAB`, `Python`, `Monocular Depth Estimation` |
+
+---
+
+### 🛠️ My Tech Stack
+
+- **Languages:** `Python`, `C++`
+- **Expertise:** `Computer Vision`, `Deep Learning`, `Sports Analytics`, `Real-time Processing`, `3D Reconstruction`
+- **Frameworks & Tools:** `OpenCV`, `YOLO`, `PyTorch`, `PyQt`, `CUDA`, `NumPy`, `Matplotlib`
