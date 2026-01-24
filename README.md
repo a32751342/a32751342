@@ -49,8 +49,8 @@ This project is an intelligent analysis system inspired by MLB Statcast, designe
 
 <div align="center">
 
-[![a32751342's GitHub stats](https://github-readme-stats.vercel.app/api?username=a32751342&show_icons=true&theme=radical&rank_icon=github)](https://github.com/a32751342)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a32751342&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![a32751342's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a32751342&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![a32751342's GitHub stats](https://github-readme-stats.vercel.app/api?username=a32751342&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=333&bg_color=F0F8FF&rank_icon=github)](https://github.com/a32751342)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a32751342&layout=compact&title_color=0077B5&text_color=333&bg_color=F0F8FF)](https://github.com/anuraghazra/github-readme-stats)
+[![a32751342's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a32751342&bg_color=F0F8FF&color=0077B5&line=0077B5&point=0077B5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
