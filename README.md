@@ -14,15 +14,11 @@ Passionate about leveraging Computer Vision and Deep Learning to revolutionize s
 
 ---
 
-### 📊 GitHub Statistics
+### 🛠️ My Tech Stack
 
-<div align="center">
-
-[![a32751342's GitHub stats](https://github-readme-stats.vercel.app/api?username=a32751342&show_icons=true&theme=radical&rank_icon=github)](https://github.com/a32751342)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a32751342&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![a32751342's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a32751342&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+- **Languages:** `Python`, `C++`
+- **Expertise:** `Computer Vision`, `Deep Learning`, `Sports Analytics`, `Real-time Processing`, `3D Reconstruction`
+- **Frameworks & Tools:** `OpenCV`, `YOLO`, `PyTorch`, `PyQt`, `CUDA`, `NumPy`, `Matplotlib`
 
 ---
 
@@ -49,8 +45,12 @@ This project is an intelligent analysis system inspired by MLB Statcast, designe
 
 ---
 
-### 🛠️ My Tech Stack
+### 📊 GitHub Statistics
 
-- **Languages:** `Python`, `C++`
-- **Expertise:** `Computer Vision`, `Deep Learning`, `Sports Analytics`, `Real-time Processing`, `3D Reconstruction`
-- **Frameworks & Tools:** `OpenCV`, `YOLO`, `PyTorch`, `PyQt`, `CUDA`, `NumPy`, `Matplotlib`
+<div align="center">
+
+[![a32751342's GitHub stats](https://github-readme-stats.vercel.app/api?username=a32751342&show_icons=true&theme=radical&rank_icon=github)](https://github.com/a32751342)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a32751342&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![a32751342's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a32751342&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
