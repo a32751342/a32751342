@@ -16,7 +16,7 @@ Passionate about leveraging Computer Vision and Deep Learning to revolutionize s
 
 ### 🛠️ My Tech Stack
 
-- **Languages:** `Python`, `C++`
+- **Languages:** `Python`
 - **Expertise:** `Computer Vision`, `Deep Learning`, `Sports Analytics`, `Real-time Processing`, `3D Reconstruction`
 - **Frameworks & Tools:** `OpenCV`, `YOLO`, `PyTorch`, `PyQt`, `CUDA`, `NumPy`, `Matplotlib`
 
