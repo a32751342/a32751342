@@ -13,20 +13,9 @@ Passionate about leveraging Computer Vision and Deep Learning to revolutionize s
 <br>
 
 [![a32751342's GitHub stats](https://github-readme-stats.vercel.app/api?username=a32751342&show_icons=true&theme=radical&rank_icon=github)](https://github.com/a32751342)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a32751342&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-### 🛠️ My Tech Stack & Tools
-
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,opencv,pytorch,qt,cuda,numpy,matplotlib,sqlite,matlab" />
-  </a>
-</div>
-
-- **Expertise:** `Computer Vision`, `Deep Learning`, `Sports Analytics`, `Real-time Processing`, `3D Reconstruction`
 
 ---
 
@@ -50,3 +39,11 @@ This project is an intelligent analysis system inspired by MLB Statcast, designe
 | **High-Speed Object Tracking for Sports**  | Real-time multi-object tracking system capable of processing 240 FPS video.          | `YOLOv8`, `DeepSORT`, `OpenCV`, `CUDA`       |
 | **Integrated Image Analysis Platform**     | A user-friendly GUI platform with multiple image processing and data analysis tools. | `PyQt6`, `OpenCV`, `Matplotlib`, `SQLite`  |
 | **3D Trajectory Reconstruction**           | Reconstructs 3D object motion from 2D videos for sports science analysis.            | `MATLAB`, `Python`, `Monocular Depth Estimation` |
+
+---
+
+### 🛠️ My Tech Stack
+
+- **Languages:** `Python`, `C++`
+- **Expertise:** `Computer Vision`, `Deep Learning`, `Sports Analytics`, `Real-time Processing`, `3D Reconstruction`
+- **Frameworks & Tools:** `OpenCV`, `YOLO`, `PyTorch`, `PyQt`, `CUDA`, `NumPy`, `Matplotlib`
