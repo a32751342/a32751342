@@ -10,10 +10,17 @@ Passionate about leveraging Computer Vision and Deep Learning to revolutionize s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-yu-tseng-ab3a49275/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a32751342)
 
-<br>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
 
 [![a32751342's GitHub stats](https://github-readme-stats.vercel.app/api?username=a32751342&show_icons=true&theme=radical&rank_icon=github)](https://github.com/a32751342)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a32751342&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![a32751342's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a32751342&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
