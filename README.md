@@ -35,15 +35,6 @@ This project is an intelligent analysis system inspired by MLB Statcast, designe
 
 ---
 
-### 🚀 Other Projects
-
-| Project                                    | Description                                                                          | Technologies                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------ |
-| **High-Speed Object Tracking for Sports**  | Real-time multi-object tracking system capable of processing 240 FPS video.          | `YOLOv8`, `DeepSORT`, `OpenCV`, `CUDA`       |
-| **Integrated Image Analysis Platform**     | A user-friendly GUI platform with multiple image processing and data analysis tools. | `PyQt6`, `OpenCV`, `Matplotlib`, `SQLite`  |
-| **3D Trajectory Reconstruction**           | Reconstructs 3D object motion from 2D videos for sports science analysis.            | `MATLAB`, `Python`, `Monocular Depth Estimation` |
-
----
 
 ### 📊 GitHub Statistics
 
